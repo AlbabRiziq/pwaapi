@@ -1,120 +1,121 @@
 {
-  "product":[
-{
-  "id": 1,
-  "nama": "Xaviera",
-  "negara": "Canada"
-}, {
-  "id": 2,
-  "nama": "Sheba",
-  "negara": "Brazil"
-}, {
-  "id": 3,
-  "nama": "Deirdre",
-  "negara": "Ukraine"
-}, {
-  "id": 4,
-  "nama": "Callida",
-  "negara": "Czech Republic"
-}, {
-  "id": 5,
-  "nama": "Louisette",
-  "negara": "Portugal"
-}, {
-  "id": 6,
-  "nama": "Naoma",
-  "negara": "Brazil"
-}, {
-  "id": 7,
-  "nama": "Linette",
-  "negara": "Ukraine"
-}, {
-  "id": 8,
-  "nama": "Micheline",
-  "negara": "China"
-}, {
-  "id": 9,
-  "nama": "Netty",
-  "negara": "Indonesia"
-}, {
-  "id": 10,
-  "nama": "Clarie",
-  "negara": "China"
-}, {
-  "id": 11,
-  "nama": "Bathsheba",
-  "negara": "Poland"
-}, {
-  "id": 12,
-  "nama": "Tierney",
-  "negara": "Indonesia"
-}, {
-  "id": 13,
-  "nama": "Libbey",
-  "negara": "China"
-}, {
-  "id": 14,
-  "nama": "Domini",
-  "negara": "Ethiopia"
-}, {
-  "id": 15,
-  "nama": "Lorinda",
-  "negara": "Portugal"
-}, {
-  "id": 16,
-  "nama": "Lilas",
-  "negara": "Canada"
-}, {
-  "id": 17,
-  "nama": "Chad",
-  "negara": "Russia"
-}, {
-  "id": 18,
-  "nama": "Kippie",
-  "negara": "China"
-}, {
-  "id": 19,
-  "nama": "Malva",
-  "negara": "Mauritania"
-}, {
-  "id": 20,
-  "nama": "Allx",
-  "negara": "Sri Lanka"
-}, {
-  "id": 21,
-  "nama": "Darya",
-  "negara": "Brazil"
-}, {
-  "id": 22,
-  "nama": "Deerdre",
-  "negara": "United States"
-}, {
-  "id": 23,
-  "nama": "Ara",
-  "negara": "Brazil"
-}, {
-  "id": 24,
-  "nama": "Velvet",
-  "negara": "Venezuela"
-}, {
-  "id": 25,
-  "nama": "Korie",
-  "negara": "Nigeria"
-}, {
-  "id": 26,
-  "nama": "Cassaundra",
-  "negara": "Albania"
-}, {
-  "id": 27,
-  "nama": "Jere",
-  "negara": "Oman"
-}, {
-  "id": 28,
-  "nama": "Zabrina",
-  "negara": "Indonesia"
-}, {
-  "id": 29,
-  "nama": "Kirbie",
-  "negara": "China"
-}]
+    "product":[
+  {
+    "id": 1,
+    "nama": "Xaviera",
+    "negara": "Canada"
+  }, {
+    "id": 2,
+    "nama": "Sheba",
+    "negara": "Brazil"
+  }, {
+    "id": 3,
+    "nama": "Deirdre",
+    "negara": "Ukraine"
+  }, {
+    "id": 4,
+    "nama": "Callida",
+    "negara": "Czech Republic"
+  }, {
+    "id": 5,
+    "nama": "Louisette",
+    "negara": "Portugal"
+  }, {
+    "id": 6,
+    "nama": "Naoma",
+    "negara": "Brazil"
+  }, {
+    "id": 7,
+    "nama": "Linette",
+    "negara": "Ukraine"
+  }, {
+    "id": 8,
+    "nama": "Micheline",
+    "negara": "China"
+  }, {
+    "id": 9,
+    "nama": "Netty",
+    "negara": "Indonesia"
+  }, {
+    "id": 10,
+    "nama": "Clarie",
+    "negara": "China"
+  }, {
+    "id": 11,
+    "nama": "Bathsheba",
+    "negara": "Poland"
+  }, {
+    "id": 12,
+    "nama": "Tierney",
+    "negara": "Indonesia"
+  }, {
+    "id": 13,
+    "nama": "Libbey",
+    "negara": "China"
+  }, {
+    "id": 14,
+    "nama": "Domini",
+    "negara": "Ethiopia"
+  }, {
+    "id": 15,
+    "nama": "Lorinda",
+    "negara": "Portugal"
+  }, {
+    "id": 16,
+    "nama": "Lilas",
+    "negara": "Canada"
+  }, {
+    "id": 17,
+    "nama": "Chad",
+    "negara": "Russia"
+  }, {
+    "id": 18,
+    "nama": "Kippie",
+    "negara": "China"
+  }, {
+    "id": 19,
+    "nama": "Malva",
+    "negara": "Mauritania"
+  }, {
+    "id": 20,
+    "nama": "Allx",
+    "negara": "Sri Lanka"
+  }, {
+    "id": 21,
+    "nama": "Darya",
+    "negara": "Brazil"
+  }, {
+    "id": 22,
+    "nama": "Deerdre",
+    "negara": "United States"
+  }, {
+    "id": 23,
+    "nama": "Ara",
+    "negara": "Brazil"
+  }, {
+    "id": 24,
+    "nama": "Velvet",
+    "negara": "Venezuela"
+  }, {
+    "id": 25,
+    "nama": "Korie",
+    "negara": "Nigeria"
+  }, {
+    "id": 26,
+    "nama": "Cassaundra",
+    "negara": "Albania"
+  }, {
+    "id": 27,
+    "nama": "Jere",
+    "negara": "Oman"
+  }, {
+    "id": 28,
+    "nama": "Zabrina",
+    "negara": "Indonesia"
+  }, {
+    "id": 29,
+    "nama": "Kirbie",
+    "negara": "China"
+  }]
 }
+  
